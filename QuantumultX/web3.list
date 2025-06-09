@@ -1,0 +1,118 @@
+# Wallet
+HOST-SUFFIX,walletconnect.com,Web3
+HOST-SUFFIX,walletconnect.org,Web3
+HOST-SUFFIX,metamask.io,Web3
+HOST-SUFFIX,ledger.com,Web3
+HOST-SUFFIX,trezor.io,Web3
+HOST-SUFFIX,imagedelivery.net,Web3
+HOST-SUFFIX,onekey.so,Web3
+HOST-SUFFIX,onekey-asset.com,Web3
+HOST-SUFFIX,keplr.app,Web3
+HOST-SUFFIX,keyst.one,Web3
+HOST-SUFFIX,1key.so,Web3
+HOST-SUFFIX,wallet.ouxyi.cash
+
+# k线
+HOST-SUFFIX,coinmarketcap.com,Web3
+HOST-SUFFIX,coingecko.com,Web3
+HOST-SUFFIX,dexscreener.com,Web3
+HOST-SUFFIX,dex.guru,Web3
+HOST-SUFFIX,dextools.io,Web3
+HOST-SUFFIX,avedex.cc,Web3
+HOST-SUFFIX,poocoin.app,Web3
+HOST-SUFFIX,tradingview.com,Web3
+HOST-SUFFIX,aimoon.com,Web3
+HOST-SUFFIX,birdeye.so,Web3
+HOST-SUFFIX,dexlab.space,Web3
+HOST-SUFFIX,solape.io,Web3
+HOST-SUFFIX,coinhall.org,Web3
+HOST-SUFFIX,ibccoin.org,Web3
+HOST-SUFFIX,defillama.com,Web3
+
+# Swap
+HOST-SUFFIX,uniswap.org,Web3
+HOST-SUFFIX,odos.xyz,Web3
+HOST-SUFFIX,zerion.io,Web3
+HOST-SUFFIX,pancakeswap.finance,Web3
+HOST-SUFFIX,matcha.xyz,Web3
+HOST-SUFFIX,babyswap.finance,Web3
+HOST-SUFFIX,dodoex.io,Web3
+HOST-SUFFIX,dydx.exchange,Web3
+HOST-SUFFIX,curve.fi,Web3
+HOST-SUFFIX,sushi.com,Web3
+HOST-SUFFIX,balancer.fi,Web3
+HOST-SUFFIX,traderjoexyz.com,Web3
+
+# Bridge
+HOST-SUFFIX,bungee.exchange,Web3
+HOST-SUFFIX,jumper.exchange,Web3
+HOST-SUFFIX,xy.finance,Web3
+HOST-SUFFIX,stargate.finance,Web3
+
+# Lending protocol
+HOST-SUFFIX,aave.com,Web3
+HOST-SUFFIX,sentiment.xyz,Web3
+HOST-SUFFIX,benqi.fi,Web3
+HOST-SUFFIX,aevo.xyz,Web3
+HOST-SUFFIX,extrafi.io,Web3
+HOST-SUFFIX,kamino.finance,Web3
+
+# Perpetual Swap
+HOST-SUFFIX,gmx.io,Web3
+
+# chain
+HOST-SUFFIX,linea.build,Web3
+HOST-SUFFIX,avax.network,Web3
+HOST-SUFFIX,scroll.io,Web3
+HOST-SUFFIX,blast.io,Web3
+
+# scan
+HOST-SUFFIX,debank.com,Web3
+HOST-SUFFIX,etherscan.io,Web3
+HOST-SUFFIX,etherscan.com,Web3
+HOST-SUFFIX,arbiscan.io,Web3
+HOST-SUFFIX,polygonscan.com,Web3
+HOST-SUFFIX,bscscan.com,Web3
+HOST-SUFFIX,snowtrace.io,Web3
+HOST-SUFFIX,zkscan.io,Web3
+
+
+# RPC / API / Tool
+HOST-SUFFIX,chinalist,Web3
+HOST-SUFFIX,alchemy.com,Web3
+HOST-SUFFIX,ankr.com,Web3
+HOST-SUFFIX,collab.land,Web3
+HOST-SUFFIX,chainlist.org,Web3
+HOST-SUFFIX,blocknative.com,Web3
+
+# nft
+HOST-SUFFIX,opensea.io,Web3
+HOST-SUFFIX,blur.io,Web3
+HOST-SUFFIX,element.market,Web3
+
+# BTC
+HOST-SUFFIX,wizz.cash,Web3
+HOST-SUFFIX,unisat.io,Web3
+
+# other project
+HOST-SUFFIX,safe.global,Web3
+HOST-SUFFIX,secwarex.io,Web3
+HOST-SUFFIX,gopluslabs.io,Web3
+HOST-SUFFIX,infura.io,Web3
+HOST-SUFFIX,mocaverse.xyz,Web3
+HOST-SUFFIX,galxe.com,Web3
+HOST-SUFFIX,galaxy.eco,Web3
+HOST-SUFFIX,seadn.io,Web3
+HOST-SUFFIX,utopialabs.com,Web3
+HOST-SUFFIX,namada.net,Web3
+HOST-SUFFIX,zomma.pro,Web3
+HOST-SUFFIX,consensys-nft.com,Web3
+HOST-SUFFIX,tbook.com,Web3
+HOST-SUFFIX,io.solutions,Web3
+HOST-SUFFIX,mirror.xyz,Web3
+HOST-SUFFIX,microlancer.io,Web3
+HOST-SUFFIX,sats4likes.com,Web3
+HOST-SUFFIX,sablier.com,Web3
+HOST-SUFFIX,beefy.com,Web3
+HOST-SUFFIX,friend.tech,Web3
+HOST-SUFFIX,io.net,Web3

@@ -1,0 +1,48 @@
+# 币安
+HOST-SUFFIX,binance.com,CEX
+HOST-SUFFIX,binance.info,CEX
+HOST-SUFFIX,bnbstatic.com,CEX
+HOST-SUFFIX,appsflayer.com,CEX
+HOST-SUFFIX,binance.cloud,CEX
+HOST-SUFFIX,binance.me,CEX
+HOST-SUFFIX,binancecnt.com,CEX
+HOST-SUFFIX,binancefuture.com,CEX
+HOST-SUFFIX,bnappzh.co,CEX
+HOST-SUFFIX,bnbstatic.com,CEX
+HOST-SUFFIX,bnbzh.ac,CEX
+HOST-SUFFIX,bntrace.com,CEX
+
+# OKX
+HOST-SUFFIX,okx.com,CEX
+HOST-SUFFIX,okex.com,CEX
+HOST-SUFFIX,oklink.com,CEX
+HOST-SUFFIX,okx.com.cdn.cloudflare.net,CEX
+
+# bybit
+HOST-SUFFIX,bybit.com,CEX
+HOST-SUFFIX,byd3c3.com,CEX
+HOST-SUFFIX,bycsi.com,CEX
+HOST-SUFFIX,bybit-global.com,CEX
+HOST-SUFFIX,bybit-global.com,CEX
+HOST-SUFFIX,bybit.cloud,CEX
+HOST-SUFFIX,bybit.org,CEX
+HOST-SUFFIX,bybit.biz,CEX
+HOST-SUFFIX,bybit.com,CEX
+HOST-SUFFIX,bybitglobal.com,CEX
+
+# 其他
+HOST-SUFFIX,bitget.com,CEX
+HOST-SUFFIX,mexc.com,CEX
+HOST-SUFFIX,gate.io,CEX
+HOST-SUFFIX,kucoin.com,CEX
+HOST-SUFFIX,coinw.com,CEX
+HOST-SUFFIX,coinswitch.co,CEX
+HOST-SUFFIX,coindcx.com,CEX
+HOST-SUFFIX,bullish.com,CEX
+HOST-SUFFIX,bitstamp.net,CEX
+HOST-SUFFIX,bitpanda.com,CEX
+HOST-SUFFIX,bithumb.com,CEX
+
+
+HOST-SUFFIX,saasexch.cc,CEX
+HOST-SUFFIX,saasexch.com,CEX
