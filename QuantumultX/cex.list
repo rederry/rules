@@ -30,8 +30,12 @@ HOST-SUFFIX,bybit.biz,CEX
 HOST-SUFFIX,bybit.com,CEX
 HOST-SUFFIX,bybitglobal.com,CEX
 
-# 其他
+# bitget
 HOST-SUFFIX,bitget.com,CEX
+HOST-SUFFIX,bitget.club,CEX
+HOST-SUFFIX,bitget.org,CEX
+
+# 其他
 HOST-SUFFIX,mexc.com,CEX
 HOST-SUFFIX,gate.io,CEX
 HOST-SUFFIX,kucoin.com,CEX
