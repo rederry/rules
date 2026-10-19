@@ -1,0 +1,14 @@
+# Apple Intelligence / Siri
+# Source: https://raw.githubusercontent.com/enriquephl/QuantumultX_config/main/filters/AppleIntelligence.conf
+# Snapshot: 2026-10-19; maintained locally, no automatic upstream sync.
+# AppleIntelligence must resolve to a proxy node or proxy policy group.
+
+# Apple Intelligence (upstream rules)
+HOST,apple-relay.apple.com,AppleIntelligence
+HOST,apple-relay.cloudflare.com,AppleIntelligence
+HOST,apple-relay.fastly-edge.com,AppleIntelligence
+HOST,cp4.cloudflare.com,AppleIntelligence
+HOST,cp10.cloudflare.com,AppleIntelligence
+
+# Siri (locally added)
+HOST,api-siri-prod.apple.com,AppleIntelligence
