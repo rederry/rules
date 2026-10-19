@@ -1,5 +1,17 @@
 # Quantumult X 规则
 
+## Bank
+
+`Bank.list` 是来自 [yeahwu/Rules-For-Quantumult-X](https://github.com/yeahwu/Rules-For-Quantumult-X/blob/main/Rules/Services/Bank.list) 的本地规则副本，保留原有 22 条启用规则和 1 条注释规则。文件由本仓库自行管理，不会自动同步上游。
+
+在 Quantumult X 配置的 `[filter_remote]` 段添加：
+
+```ini
+https://raw.githubusercontent.com/rederry/rules/main/QuantumultX/Bank.list, tag=Bank, force-policy=你的代理策略组名称, enabled=true
+```
+
+将 `你的代理策略组名称` 替换为已存在且实际使用代理节点的策略组或节点名称。`force-policy` 会覆盖规则中的 `Bank` 策略。也可不写 `force-policy`，并在本地定义名为 `Bank` 的策略组且选择代理节点。请在 Apple、HSBC、银行应用的相关规则可能重叠时，按需调整规则优先级。
+
 ## Apple Intelligence / Siri
 
 `AppleIntelligence.list` 是自行维护的规则快照，包含上游 5 条精确域名规则，以及本地补充的 `api-siri-prod.apple.com`、`smoot.apple.com` 后缀规则和 `amp-api.apps.apple.com` 精确域名规则，共 8 条。后续直接修改本文件，不会自动跟随上游更新。
