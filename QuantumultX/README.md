@@ -2,7 +2,7 @@
 
 ## Apple Intelligence / Siri
 
-`AppleIntelligence.list` 是自行维护的规则快照，包含上游 5 条精确域名规则，以及本地补充的 `api-siri-prod.apple.com`，共 6 条。后续直接修改本文件，不会自动跟随上游更新。
+`AppleIntelligence.list` 是自行维护的规则快照，包含上游 5 条精确域名规则，以及本地补充的 `api-siri-prod.apple.com`、`smoot.apple.com` 后缀规则和 `amp-api.apps.apple.com` 精确域名规则，共 8 条。后续直接修改本文件，不会自动跟随上游更新。
 
 上游来源：<https://raw.githubusercontent.com/enriquephl/QuantumultX_config/main/filters/AppleIntelligence.conf>（读取日期：2026-10-19）。原链接的 `#via=0` 是 URL 片段，不属于规则内容，无需加入订阅地址。
 
@@ -22,7 +22,7 @@ https://raw.githubusercontent.com/rederry/rules/main/QuantumultX/AppleIntelligen
 https://raw.githubusercontent.com/rederry/rules/main/QuantumultX/AppleIntelligence.list, tag=AppleIntelligence, enabled=true
 ```
 
-上述在线地址只有在你自行将文件提交并推送到 GitHub 的 `main` 分支后才会包含本次修改。本次仅修改本地文件，未提交、未推送。需要立即测试时，可将 `.list` 中 6 条 `HOST` 规则复制到现有 `[filter_local]` 段，将第三列统一替换成已有的代理策略组或节点名称。
+上述在线地址只有在你自行将文件提交并推送到 GitHub 的 `main` 分支后才会包含本次修改。本次仅修改本地文件，未提交、未推送。需要立即测试时，可将 `.list` 中 7 条 `HOST` / `HOST-SUFFIX` 规则复制到现有 `[filter_local]` 段，将第三列统一替换成已有的代理策略组或节点名称。
 
 ### 优先级和验证
 

@@ -10,5 +10,7 @@ HOST,apple-relay.fastly-edge.com,AppleIntelligence
 HOST,cp4.cloudflare.com,AppleIntelligence
 HOST,cp10.cloudflare.com,AppleIntelligence
 
-# Siri (locally added)
+# Siri + ChatGPT (locally added)
 HOST,api-siri-prod.apple.com,AppleIntelligence
+HOST-SUFFIX,smoot.apple.com,AppleIntelligence
+HOST,amp-api.apps.apple.com,AppleIntelligence
