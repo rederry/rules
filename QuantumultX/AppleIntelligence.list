@@ -1,16 +1,32 @@
 # Apple Intelligence / Siri
-# Source: https://raw.githubusercontent.com/enriquephl/QuantumultX_config/main/filters/AppleIntelligence.conf
-# Snapshot: 2026-10-19; maintained locally, no automatic upstream sync.
+# Source: user-provided iOS 27 RC rule set; existing local additions retained.
 # AppleIntelligence must resolve to a proxy node or proxy policy group.
 
-# Apple Intelligence (upstream rules)
+# Siri / iCloud
+HOST,gateway.icloud.com,AppleIntelligence
+HOST,seed.siri.apple.com,AppleIntelligence
+HOST,probe.icloud.com,AppleIntelligence
+HOST,metrics.icloud.com,AppleIntelligence
+HOST,guzzoni.apple.com,AppleIntelligence
+HOST-SUFFIX,smoot.apple.com,AppleIntelligence
+HOST,api-siri-prod.apple.com,AppleIntelligence
+
+# Apple Intelligence / Private Cloud Compute
 HOST,apple-relay.apple.com,AppleIntelligence
 HOST,apple-relay.cloudflare.com,AppleIntelligence
 HOST,apple-relay.fastly-edge.com,AppleIntelligence
 HOST,cp4.cloudflare.com,AppleIntelligence
 HOST,cp10.cloudflare.com,AppleIntelligence
 
-# Siri + ChatGPT (locally added)
-HOST,api-siri-prod.apple.com,AppleIntelligence
-HOST-SUFFIX,smoot.apple.com,AppleIntelligence
+# Apple Intelligence relay / bootstrap
+HOST,apple-relay.mask.apple-dns.net,AppleIntelligence
+HOST,mask-api.icloud.com,AppleIntelligence
+HOST,mask-api.fe2.apple-dns.net,AppleIntelligence
+HOST,apple-relay.akamaized.net,AppleIntelligence
+HOST,apple-carry-relay.cloudflare.com,AppleIntelligence
+
+# Apple region determination
+HOST,gspe1-ssl.ls.apple.com,AppleIntelligence
+
+# ChatGPT (locally added)
 HOST,amp-api.apps.apple.com,AppleIntelligence
